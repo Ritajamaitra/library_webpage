@@ -1,0 +1,8 @@
+table,th,tr,td,thead{
+    border:  2px solid black;
+    padding: 10px ;
+    border-spacing: 15px;
+    border-collapse:collapse ;
+    table-layout: auto;
+    
+}
